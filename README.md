@@ -1,4 +1,4 @@
-# -Power-BI-File-Syneos-Health-Dashboard.pbix
+# Syneos-Health-Dashboard.pbix
 **📌** **Project Overview**
 
 This project presents a Power BI-based interactive dashboard built to visualize and analyze sales data for Syneos Health. The goal was to transform a raw dataset into a comprehensive business intelligence report that highlights key performance metrics, regional trends, and revenue insights.
