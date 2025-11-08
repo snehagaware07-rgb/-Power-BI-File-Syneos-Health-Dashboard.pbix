@@ -92,5 +92,6 @@ The dashboard enabled dynamic exploration, making business reviews faster and mo
 
 📧 Email: snehagaware07@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/sneha-gaware 
+🔗 LinkedIn: [https://www.linkedin.com/in/sneha-gaware ](https://www.linkedin.com/in/sneha-gaware-821803227/)
+
 
